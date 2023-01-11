@@ -1,0 +1,694 @@
+/* screen - programmer-newsletter */
+
+.programmer-newsletter {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  min-height: 1578px;
+  width: 428px;
+}
+
+.programmer-newsletter .page {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 59px;
+  min-height: 1267px;
+  width: 428px;
+}
+
+.programmer-newsletter .navbar {
+  align-items: flex-start;
+  background-color: var(--bianca);
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 77px;
+  min-width: 428px;
+  padding: 22.5px 26px;
+}
+
+.programmer-newsletter .header {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  min-width: 375px;
+}
+
+.programmer-newsletter .frame-1185 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 375px;
+}
+
+.programmer-newsletter .frame-1254 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 228px;
+  min-width: 387px;
+}
+
+.programmer-newsletter .ant-designmenu-outlined {
+  height: 24px;
+  width: 46px;
+}
+
+.programmer-newsletter .frame-1184 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 13px;
+  min-width: 113px;
+}
+
+.programmer-newsletter .notification {
+  align-items: flex-start;
+  background-image: url(../img/bell-1-21@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  min-width: 30px;
+  padding: 0.4px 0;
+}
+
+.programmer-newsletter .ellipse-94 {
+  background-color: var(--scarlet-gum);
+  border: 4px solid;
+  border-color: var(--white);
+  border-radius: 8.27px/8.43px;
+  height: 17px;
+  width: 17px;
+}
+
+.programmer-newsletter .cog-1 {
+  height: 31px;
+  width: 25px;
+}
+
+.programmer-newsletter .profile {
+  height: 29px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.programmer-newsletter .contenue {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  margin-left: 3.64px;
+  min-height: 1131px;
+  width: 394px;
+}
+
+.programmer-newsletter .entte {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 136px;
+  margin-left: 1.82px;
+  min-width: 390px;
+  padding: 0 33px;
+}
+
+.programmer-newsletter .overlap-group {
+  height: 138px;
+  margin-top: -1px;
+  position: relative;
+  width: 324px;
+}
+
+.programmer-newsletter .barre-de-recherche {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 37px;
+  left: 0;
+  min-width: 324px;
+  position: absolute;
+  top: 101px;
+}
+
+.programmer-newsletter .bxsearch-alt {
+  height: 37px;
+  width: 35px;
+}
+
+.programmer-newsletter .location {
+  background-color: var(--desert-storm);
+  border-radius: 5px;
+  box-shadow: 0px 4px 1px #0000000a;
+  height: 35px;
+  width: 257px;
+}
+
+.programmer-newsletter .carbonoverflow-menu-vertical {
+  height: 32px;
+  width: 32px;
+}
+
+.programmer-newsletter .catgories-actualit {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 233px;
+}
+
+.programmer-newsletter .contenue-1 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  min-height: 952px;
+  width: 394px;
+}
+
+.programmer-newsletter .prsentaition-de-la-page {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  margin-left: 4.0px;
+  min-height: 155px;
+  width: 345px;
+}
+
+.programmer-newsletter .cration-dune-newsletter {
+  color: var(--scarlet-gum);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 28.0px;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 248px;
+}
+
+.programmer-newsletter .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  min-height: 93px;
+  text-align: justify;
+  width: 341px;
+}
+
+.programmer-newsletter .paramtrage {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 244px;
+  width: 352px;
+}
+
+.programmer-newsletter .h6 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.programmer-newsletter .frame-1289 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 6px;
+  height: 24px;
+  margin-top: 21px;
+  min-width: 212px;
+}
+
+.programmer-newsletter .h6-1 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.programmer-newsletter .overlap-group-1 {
+  align-self: flex-end;
+  height: 21px;
+  position: relative;
+  width: 130px;
+}
+
+.programmer-newsletter .rectangle-1171 {
+  background-color: var(--hot-toddy);
+  border: 1px none;
+  border-radius: 4px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 130px;
+}
+
+.programmer-newsletter .catgories {
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 130px;
+}
+
+.programmer-newsletter .frame-1288 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 4px;
+  height: 24px;
+  margin-top: 20px;
+  min-width: 274px;
+}
+
+.programmer-newsletter .h6-2 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.programmer-newsletter .overlap-group-2 {
+  align-self: flex-end;
+  height: 21px;
+  position: relative;
+  width: 146px;
+}
+
+.programmer-newsletter .rectangle-1171-1 {
+  background-color: var(--equator);
+  border: 1px none;
+  border-radius: 4px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 146px;
+}
+
+.programmer-newsletter .sous-catgorie {
+  height: 20px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 126px;
+}
+
+.programmer-newsletter .frame-1154 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 5px;
+  height: 24px;
+  margin-top: 20px;
+  min-width: 352px;
+}
+
+.programmer-newsletter .h6-3 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.programmer-newsletter .overlap-group-3 {
+  border-radius: 4px;
+  height: 20px;
+  position: relative;
+  width: 100px;
+}
+
+.programmer-newsletter .rectangle-1171-2 {
+  background-color: var(--hot-toddy);
+  border: 1px none;
+  border-radius: 17px;
+  height: 20px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.programmer-newsletter .tag-badge-default-1 {
+  align-items: center;
+  background-color: var(--scarlet-gum);
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 100px;
+  position: absolute;
+  top: 0;
+}
+
+.programmer-newsletter .contents {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  min-width: 94px;
+}
+
+.programmer-newsletter .text {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 17px;
+  min-width: 93px;
+}
+
+.programmer-newsletter .badge-texte {
+  letter-spacing: 0;
+  line-height: 104px;
+  margin-top: -1px;
+  min-height: 17px;
+  white-space: nowrap;
+}
+
+.programmer-newsletter .x-container {
+  border: 1px none;
+  height: 18px;
+  width: 1px;
+}
+
+.programmer-newsletter .tag-badge-default {
+  align-items: center;
+  background-color: var(--scarlet-gum);
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  min-width: 100px;
+}
+
+.programmer-newsletter .group-1292 {
+  align-items: center;
+  border-radius: 5px;
+  display: flex;
+  margin-top: 20px;
+  min-width: 224px;
+}
+
+.programmer-newsletter .frquence {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 14px;
+  width: 88px;
+}
+
+.programmer-newsletter .box-retirada {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--scarlet-gum);
+  border-radius: 5px;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  min-width: 136px;
+  padding: 0 23.8px;
+}
+
+.programmer-newsletter .data {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  min-width: 88px;
+}
+
+.programmer-newsletter .date {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 11px;
+  justify-content: flex-end;
+  min-width: 88px;
+}
+
+.programmer-newsletter .calendar52 {
+  align-self: center;
+  height: 12px;
+  margin-top: 0;
+  width: 12px;
+}
+
+.programmer-newsletter .address {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 66px;
+}
+
+.programmer-newsletter .destinataires-moi {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 14px;
+  width: 151px;
+}
+
+.programmer-newsletter .section-formulaire {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 67px;
+  margin-left: 2.0px;
+  min-height: 363px;
+  width: 396px;
+}
+
+.programmer-newsletter .label {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: -1px;
+  text-align: center;
+  width: 385px;
+}
+
+.programmer-newsletter .formulaire {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 245px;
+  width: 394px;
+}
+
+.programmer-newsletter .group-1273 {
+  align-items: flex-start;
+  border-radius: 11px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 1.2px;
+  min-height: 80px;
+  width: 352px;
+}
+
+.programmer-newsletter .titre {
+  align-items: center;
+  border-radius: 11px;
+  display: flex;
+  min-width: 354px;
+}
+
+.programmer-newsletter .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 19px;
+  width: 98px;
+}
+
+.programmer-newsletter .overlap-group-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--scarlet-gum);
+  border-radius: 11px;
+  display: flex;
+  height: 33px;
+  min-width: 254px;
+  padding: 6px 4.2px;
+}
+
+.programmer-newsletter .titre-de-la-newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  width: 220px;
+}
+
+.programmer-newsletter .overlap-group1 {
+  height: 37px;
+  position: relative;
+  width: 326px;
+}
+
+.programmer-newsletter .overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 11px;
+  display: flex;
+  height: 37px;
+  left: 71px;
+  min-width: 256px;
+  padding: 7px 5.2px;
+  position: absolute;
+  top: 0;
+}
+
+.programmer-newsletter .auteur-de-la-newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 21px;
+  width: 233px;
+}
+
+.programmer-newsletter .cr-par {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 94px;
+}
+
+.programmer-newsletter .description {
+  align-items: flex-start;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 141px;
+  width: 396px;
+}
+
+.programmer-newsletter .label-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 13px;
+  width: 141px;
+}
+
+.programmer-newsletter .location-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--scarlet-gum);
+  border-radius: 5px;
+  height: 113px;
+  width: 394px;
+}
+
+.programmer-newsletter .call-to-action {
+  align-items: flex-start;
+  background-color: var(--hot-toddy);
+  border: 1px none;
+  border-radius: 5px;
+  display: flex;
+  height: 52px;
+  overflow: hidden;
+  padding: 15.5px 18.5px;
+  width: 187px;
+}
+
+.programmer-newsletter .pesquisar {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 150px;
+  text-align: center;
+}
+
+.programmer-newsletter .footer {
+  align-items: flex-start;
+  background-color: var(--pot-pourri);
+  border: 1px none;
+  display: flex;
+  height: 262px;
+  padding: 23px 31px;
+  width: 428px;
+}
+
+.programmer-newsletter .overlap-group2 {
+  height: 215px;
+  position: relative;
+  width: 354px;
+}
+
+.programmer-newsletter .qolumn {
+  height: 73px;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  width: 147px;
+}
+
+.programmer-newsletter .group-1267 {
+  align-items: flex-start;
+  display: flex;
+  gap: 50px;
+  height: 93px;
+  left: 0;
+  min-width: 347px;
+  position: absolute;
+  top: 110px;
+}
+
+.programmer-newsletter .politique-de-confidentialit {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  text-align: center;
+  width: 160px;
+}
+
+.programmer-newsletter .mentions-lgales {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  text-align: center;
+  width: 133px;
+}
+
+.programmer-newsletter .rectangle-1193 {
+  height: 215px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 341px;
+}

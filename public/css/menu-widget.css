@@ -1,0 +1,181 @@
+/* screen - menu-widget */
+
+.menu-widget {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  display: flex;
+  gap: 56px;
+  height: 389px;
+  overflow: hidden;
+  width: 624px;
+}
+
+.menu-widget .list {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-left: 35px;
+  margin-top: 30px;
+  min-height: 329px;
+  width: 143px;
+}
+
+.menu-widget .list-item {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 275px;
+  padding: 0 40px;
+}
+
+.menu-widget .h6 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.menu-widget .list-item-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 15px;
+  height: 29px;
+  min-width: 275px;
+}
+
+.menu-widget .frame-31 {
+  align-self: center;
+  height: 25px;
+  width: 25px;
+}
+
+.menu-widget .h6-1 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .frame-30 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--alto);
+  border-radius: 5px;
+  height: 25px;
+  width: 25px;
+}
+
+.menu-widget .h6-2 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-3 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-4 {
+  align-self: flex-end;
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-bottom: -19px;
+  min-height: 48px;
+  min-width: 94px;
+}
+
+.menu-widget .dockers {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.menu-widget .list-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 30px;
+  min-height: 329px;
+  width: 143px;
+}
+
+.menu-widget .h6-5 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-6 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-7 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-8 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-9 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .list-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 30px;
+  min-height: 329px;
+  width: 250px;
+}
+
+.menu-widget .h6-10 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-11 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-12 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-13 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.menu-widget .h6-14 {
+  letter-spacing: 0.20px;
+  line-height: 24px;
+  white-space: nowrap;
+}

@@ -1,0 +1,68 @@
+/* screen - liste-tag */
+
+.liste-tag {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 426px;
+  min-width: 156px;
+  padding: 0 12px;
+}
+
+.liste-tag .frame-1294 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 9px;
+  min-height: 408px;
+  width: 132px;
+}
+
+.liste-tag .tag-badge-default {
+  align-items: center;
+  background-color: var(--scarlet-gum);
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 32px;
+  min-width: 132px;
+  padding: 0 6px;
+}
+
+.liste-tag .contents {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  min-width: 94px;
+}
+
+.liste-tag .text {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 17px;
+  min-width: 93px;
+}
+
+.liste-tag .badge-texte {
+  letter-spacing: 0;
+  line-height: 104px;
+  margin-top: -1px;
+  min-height: 17px;
+  white-space: nowrap;
+}
+
+.liste-tag .x-container {
+  border: 1px none;
+  height: 18px;
+  width: 1px;
+}
+
+.liste-tag .akar-iconscross {
+  height: 14px;
+  width: 14px;
+}

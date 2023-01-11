@@ -1,0 +1,27 @@
+/* screen - personnes-ayant-like-1 */
+
+.personnes-ayant-like-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: 102px;
+}
+
+.personnes-ayant-like-1 .frame-1195 {
+  align-items: flex-start;
+  background-color: #ffffffed;
+  border: 1px none;
+  border-radius: 13px;
+  display: flex;
+  height: 144px;
+  overflow: hidden;
+  padding: 2px 7px;
+  width: 102px;
+}
+
+.personnes-ayant-like-1 .name {
+  letter-spacing: 0;
+  line-height: 140px;
+  min-height: 45px;
+  white-space: nowrap;
+}

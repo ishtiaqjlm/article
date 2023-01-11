@@ -1,0 +1,47 @@
+/* screen - ajouter-une-soucre-liste-deroulante-sous-categories */
+
+.ajouter-une-soucre-liste-deroulante-sous-categories {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 247px;
+  width: 138px;
+}
+
+.ajouter-une-soucre-liste-deroulante-sous-categories .airport {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 3px;
+  border-style: none;
+  display: flex;
+  gap: 5px;
+  min-width: 138px;
+  padding: 0 10px;
+}
+
+.ajouter-une-soucre-liste-deroulante-sous-categories .sous-catgorie {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-sous-categories .rectangle-1200 {
+  align-self: center;
+  background-color: var(--hot-toddy);
+  border: 1px solid;
+  height: 19px;
+  width: 19px;
+}
+
+.ajouter-une-soucre-liste-deroulante-sous-categories .rectangle-1200-1 {
+  align-self: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 19px;
+  width: 19px;
+}

@@ -1,0 +1,71 @@
+/* screen - personnes-ayant-signale-larticle-urgent */
+
+.personnes-ayant-signale-larticle-urgent {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: -10px;
+  min-height: 208px;
+  padding: 14.5px 0;
+  width: 285px;
+}
+
+.personnes-ayant-signale-larticle-urgent .souhaitez-vous-signa {
+  letter-spacing: 0;
+  line-height: 140px;
+  min-height: 68px;
+  text-align: center;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.personnes-ayant-signale-larticle-urgent .frame-1294 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 23px;
+  min-width: 278px;
+  padding: 0 27.5px;
+}
+
+.personnes-ayant-signale-larticle-urgent .call-to-action {
+  align-items: flex-start;
+  background-color: var(--scarlet-gum);
+  border: 1px none;
+  border-radius: 5px;
+  display: flex;
+  height: 48px;
+  overflow: hidden;
+  padding: 13.4px 12.5px;
+  width: 86px;
+}
+
+.personnes-ayant-signale-larticle-urgent .annuler {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 61px;
+  text-align: center;
+}
+
+.personnes-ayant-signale-larticle-urgent .call-to-action-1 {
+  align-items: flex-start;
+  background-color: var(--scarlet-gum);
+  border: 1px none;
+  border-radius: 5px;
+  display: flex;
+  height: 48px;
+  overflow: hidden;
+  padding: 13.5px 7.5px;
+  width: 114px;
+}
+
+.personnes-ayant-signale-larticle-urgent .je-commente {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 99px;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+/* screen - proposer-une-nouvelle-source */
+
+.proposer-une-nouvelle-source {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 574px;
+  min-width: 547px;
+  padding: 61px 50px;
+}
+
+.proposer-une-nouvelle-source .page {
+  height: 403px;
+  width: 447px;
+}

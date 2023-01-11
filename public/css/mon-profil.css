@@ -1,0 +1,80 @@
+/* screen - mon-profil */
+
+.mon-profil {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 1660px;
+  width: 1922px;
+}
+
+.mon-profil .page {
+  height: 1398px;
+  margin-left: 2px;
+  width: 1920px;
+}
+
+.mon-profil .footer {
+  align-items: flex-start;
+  background-color: var(--pot-pourri);
+  border: 1px none;
+  display: flex;
+  height: 262px;
+  overflow: hidden;
+  padding: 0 444px;
+  width: 1922px;
+}
+
+.mon-profil .overlap-group {
+  height: 394px;
+  margin-top: -66px;
+  position: relative;
+  width: 1033px;
+}
+
+.mon-profil .qolumn {
+  height: 169px;
+  left: 485px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  width: 147px;
+}
+
+.mon-profil .group-1267 {
+  align-items: flex-start;
+  display: flex;
+  gap: 110px;
+  height: 93px;
+  left: 256px;
+  min-width: 534px;
+  position: absolute;
+  top: 197px;
+}
+
+.mon-profil .politique-de-confidentialit {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 251px;
+}
+
+.mon-profil .mentions-lgales {
+  height: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 169px;
+}
+
+.mon-profil .rectangle-1193 {
+  height: 394px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1033px;
+}

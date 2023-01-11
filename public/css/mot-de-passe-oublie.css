@@ -1,0 +1,17 @@
+/* screen - mot-de-passe-oublie */
+
+.mot-de-passe-oublie {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 399px;
+  min-width: 776px;
+  padding: 34px 35px;
+}
+
+.mot-de-passe-oublie .page {
+  height: 330px;
+  margin-top: 1px;
+  width: 706px;
+}

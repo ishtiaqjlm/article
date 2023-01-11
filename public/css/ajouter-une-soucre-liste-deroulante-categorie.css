@@ -1,0 +1,123 @@
+/* screen - ajouter-une-soucre-liste-deroulante-categorie */
+
+.ajouter-une-soucre-liste-deroulante-categorie {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 365px;
+  width: 138px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .airport-1 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 3px;
+  border-style: none;
+  display: flex;
+  gap: 5px;
+  margin-top: -4px;
+  min-width: 138px;
+  padding: 0 10px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .produits {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .rectangle-1200 {
+  align-self: center;
+  background-color: var(--hot-toddy);
+  border: 1px solid;
+  height: 19px;
+  width: 19px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .airport {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 3px;
+  border-style: none;
+  display: flex;
+  gap: 5px;
+  min-width: 138px;
+  padding: 0 10px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .stream {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .rectangle-1200-1 {
+  align-self: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 19px;
+  width: 19px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .contrlecrise {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .l-agora {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .science {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .ecosystme {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .juridique-officiel {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .vie-pro {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}
+
+.ajouter-une-soucre-liste-deroulante-categorie .clients {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 93px;
+}

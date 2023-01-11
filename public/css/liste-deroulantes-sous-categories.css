@@ -1,0 +1,51 @@
+/* screen - liste-deroulantes-sous-categories */
+
+.liste-deroulantes-sous-categories {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 284px;
+  overflow: hidden;
+  width: 159px;
+}
+
+.liste-deroulantes-sous-categories .description {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 247px;
+  width: 404px;
+}
+
+.liste-deroulantes-sous-categories .city {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  border-radius: 3px;
+  display: flex;
+  min-width: 404px;
+  padding: 0 10px;
+}
+
+.liste-deroulantes-sous-categories .sous-catgorie-1 {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: 140px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.liste-deroulantes-sous-categories .airport {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-color: var(--white);
+  border-radius: 3px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  min-width: 404px;
+  padding: 0 10px;
+}

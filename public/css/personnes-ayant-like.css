@@ -1,0 +1,70 @@
+/* screen - personnes-ayant-like */
+
+.personnes-ayant-like {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  padding: 19px 26.5px;
+  width: 397px;
+}
+
+.personnes-ayant-like .souhaitez-vous-signa {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 140px;
+  margin-bottom: -72px;
+  min-height: 68px;
+  white-space: nowrap;
+  width: 340px;
+}
+
+.personnes-ayant-like .location {
+  align-items: flex-start;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-top: 10px;
+  min-height: 57px;
+  width: 342px;
+}
+
+.personnes-ayant-like .label {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 13px;
+  width: 126px;
+}
+
+.personnes-ayant-like .location-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mist-gray);
+  border-radius: 5px;
+  height: 36px;
+  width: 340px;
+}
+
+.personnes-ayant-like .location-2 {
+  align-items: flex-start;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-top: 9px;
+  min-height: 82px;
+  width: 342px;
+}
+
+.personnes-ayant-like .location-3 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mist-gray);
+  border-radius: 5px;
+  height: 61px;
+  width: 340px;
+}

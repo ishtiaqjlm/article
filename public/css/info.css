@@ -1,0 +1,27 @@
+/* screen - info */
+
+.info {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 219px;
+  min-width: 614px;
+}
+
+.info .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 14px;
+  display: flex;
+  height: 129px;
+  min-width: 614px;
+  padding: 17px 25px;
+}
+
+.info .lorem-ipsum-dolor-si {
+  height: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: justify;
+  width: 564px;
+}

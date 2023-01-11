@@ -1,0 +1,51 @@
+/* screen - liste-deroulante-periode */
+
+.liste-deroulante-periode {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 163px;
+  overflow: hidden;
+  width: 136px;
+}
+
+.liste-deroulante-periode .description {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 163px;
+  width: 404px;
+}
+
+.liste-deroulante-periode .city {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  border-radius: 3px;
+  display: flex;
+  min-width: 404px;
+  padding: 0 10px;
+}
+
+.liste-deroulante-periode .address {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: 140px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.liste-deroulante-periode .airport {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-color: var(--white);
+  border-radius: 3px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  min-width: 404px;
+  padding: 0 10px;
+}

@@ -1,0 +1,333 @@
+/* screen - sidebar-mobile-2 */
+
+.sidebar-mobile-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 760px;
+  min-width: 275px;
+}
+
+.sidebar-mobile-2 .group-1229 {
+  align-items: flex-start;
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  min-height: 748px;
+  padding: 19.9px 28.0px;
+  width: 275px;
+}
+
+.sidebar-mobile-2 .projects {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  min-width: 118px;
+}
+
+.sidebar-mobile-2 .apps-1 {
+  height: 25px;
+  margin-top: 0;
+  width: 20px;
+}
+
+.sidebar-mobile-2 .catgories {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0.27px;
+  width: 80px;
+}
+
+.sidebar-mobile-2 .frame-1-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-right: 24.0px;
+  min-height: 663px;
+  width: 144px;
+}
+
+.sidebar-mobile-2 .frame-3 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  overflow: hidden;
+  width: 60px;
+}
+
+.sidebar-mobile-2 .produits {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 91px;
+}
+
+.sidebar-mobile-2 .nav-bar-produit {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  min-height: 335px;
+  width: 130px;
+}
+
+.sidebar-mobile-2 .frame-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 17px;
+  margin-right: 18.0px;
+  width: 64px;
+}
+
+.sidebar-mobile-2 .etiquetage {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 17px;
+  width: 64px;
+}
+
+.sidebar-mobile-2 .frame-3-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 17px;
+  margin-right: 40.0px;
+  width: 42px;
+}
+
+.sidebar-mobile-2 .alcool {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 17px;
+  width: 42px;
+}
+
+.sidebar-mobile-2 .frame-4 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 17px;
+  margin-right: 11.0px;
+  width: 71px;
+}
+
+.sidebar-mobile-2 .novel-food {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 17px;
+  width: 71px;
+}
+
+.sidebar-mobile-2 .frame-5 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 29px;
+  margin-right: 4.0px;
+  overflow: hidden;
+  width: 78px;
+}
+
+.sidebar-mobile-2 .ingrdients-fonctionnels {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.54px;
+  min-height: 29px;
+  width: 93px;
+}
+
+.sidebar-mobile-2 .frame-7 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 41px;
+  margin-right: 11.0px;
+  overflow: hidden;
+  width: 71px;
+}
+
+.sidebar-mobile-2 .protines-alternatives {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -29.06px;
+  min-height: 70px;
+  width: 71px;
+}
+
+.sidebar-mobile-2 .frame-10 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 31px;
+  margin-right: 3.0px;
+  overflow: hidden;
+  width: 79px;
+}
+
+.sidebar-mobile-2 .complments-alimentaires {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -38.14px;
+  min-height: 69px;
+  width: 79px;
+}
+
+.sidebar-mobile-2 .frame-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 17px;
+  width: 82px;
+}
+
+.sidebar-mobile-2 .cosmtiques {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 17px;
+  width: 82px;
+}
+
+.sidebar-mobile-2 .cbd-chanvre {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 17px;
+  width: 82px;
+}
+
+.sidebar-mobile-2 .frame-12 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  overflow: hidden;
+  width: 41px;
+}
+
+.sidebar-mobile-2 .stream {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 104px;
+}
+
+.sidebar-mobile-2 .frame-14 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  width: 144px;
+}
+
+.sidebar-mobile-2 .contrlecrise {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 97px;
+}
+
+.sidebar-mobile-2 .frame {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  width: 42px;
+}
+
+.sidebar-mobile-2 .l-agora {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 42px;
+}
+
+.sidebar-mobile-2 .frame-15 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  width: 121px;
+}
+
+.sidebar-mobile-2 .science {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 53px;
+}
+
+.sidebar-mobile-2 .frame-16 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  overflow: hidden;
+  width: 80px;
+}
+
+.sidebar-mobile-2 .ecosystme {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 235px;
+}
+
+.sidebar-mobile-2 .frame-13 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  overflow: hidden;
+  width: 95px;
+}
+
+.sidebar-mobile-2 .juridique-officiel {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 116px;
+}
+
+.sidebar-mobile-2 .frame-19 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 18px;
+  width: 95px;
+}
+
+.sidebar-mobile-2 .vie-pro {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 56px;
+}
+
+.sidebar-mobile-2 .clients {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 42px;
+}

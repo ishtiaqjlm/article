@@ -1,0 +1,17 @@
+/* screen - ajouter-un-destinataire */
+
+.ajouter-un-destinataire {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 892px;
+  min-width: 956px;
+  padding: 0 32px;
+}
+
+.ajouter-un-destinataire .page {
+  height: 770px;
+  margin-top: 61px;
+  width: 891px;
+}

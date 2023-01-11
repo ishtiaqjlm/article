@@ -1,0 +1,16 @@
+/* screen - ajouter-un-utilisateur */
+
+.ajouter-un-utilisateur {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1058px;
+  min-width: 956px;
+  padding: 78px 38px;
+}
+
+.ajouter-un-utilisateur .page {
+  height: 901px;
+  width: 880px;
+}
